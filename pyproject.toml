@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lpm-discretize"
-version = "0.0.1"
+version = "0.0.2"
 description = "A library for discretizing dataframes and csv files"
 authors = ["Ulli Schaechtle <ulli@mit.edu>","Tim <tim-burress@garage.co.jp>"]
 license = "Apache-2.0"
